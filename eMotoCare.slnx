@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="eMotoCare.API/eMotoCare.API.csproj" />
+  <Project Path="eMotoCare.Application/eMotoCare.Application.csproj" />
+  <Project Path="eMotoCare.Domain/eMotoCare.Domain.csproj" />
+  <Project Path="eMotoCare.Infrastructure/eMotoCare.Infrastructure.csproj" />
+</Solution>
